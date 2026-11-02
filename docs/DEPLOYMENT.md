@@ -9,8 +9,8 @@
 ### 설치 단계
 1. **저장소 클론 (Clone Repository)**
    ```bash
-   git clone https://github.com/parksuejin1026/MoDoRi_Project.git
-   cd MoDoRi_Project
+   git clone https://github.com/parksuejin1026/UniMate.git
+   cd UniMate
    ```
 
 2. **패키지 설치 (Install Dependencies)**
